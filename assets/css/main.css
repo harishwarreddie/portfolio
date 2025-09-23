@@ -605,15 +605,15 @@ section,
   .hero .container {
   position: relative;
   z-index: 3;
-  margin-left: 25px;
+  margin-left: 22px;
   }
 
   .hero p {
-    font-size: 26px;
+    font-size: 23px;
   }
 
   .hero .social-links a {
-  font-size: 26px;
+  font-size: 23px;
   display: inline-block;
   color: color-mix(in srgb, var(--default-color), transparent 15%);
   line-height: 1;
