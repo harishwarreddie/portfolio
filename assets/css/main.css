@@ -595,7 +595,7 @@ section,
 
 @media (max-width: 768px) {
   .hero h2 {
-    font-size: 40px;
+    font-size: 38px;
   }
 
   .hero img {
@@ -605,7 +605,7 @@ section,
   .hero .container {
   position: relative;
   z-index: 3;
-  margin-left: 20px;
+  margin-left: 25px;
   }
 
   .hero p {
