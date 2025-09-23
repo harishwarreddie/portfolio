@@ -44,6 +44,7 @@ Tools & Version Control: Git, GitHub
 
 Responsive Design: Fully optimized for desktop, tablet, and mobile
 
+
 🚀 Final Note
 
 This portfolio is not just a static site, but a living showcase of my growth as a developer. As I continue learning and working on new projects, I will keep updating it with fresh experiences and technical expertise.
